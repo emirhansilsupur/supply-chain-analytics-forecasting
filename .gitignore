@@ -162,5 +162,4 @@ cython_debug/
 data/
 utils/
 *.jpg
-*.png
 mlruns/
