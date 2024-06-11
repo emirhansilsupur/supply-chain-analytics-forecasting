@@ -13,7 +13,7 @@ The following models were used for demand forecasting:
 
 **Evaluation Metrics**:
 - Mean Absolute Error (MAE)
-- Root Mean Squared Error (RMSE)
+- Symmetric Mean Absolute Percentage Error (SMAPE)
 ### Model Comparison
 
 ![Model Evaluation](modelres.png)
