@@ -27,3 +27,7 @@ The demand forecasting model developed in this project provides valuable insight
 
 
 [Here is the full code in PDF format.](SC_report.pdf)
+
+
+## Tableau Dashboard
+Explore the interactive Tableau dashboard for further insights: [Sales & Customer Dashboard](https://public.tableau.com/views/SalesCustomerDashboard_17196652819050/SalesOverview?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
